@@ -1,0 +1,54 @@
+#img_princ{
+    position: relative;
+    text-align: center;
+    /*color: white;*/
+}
+
+body{
+    background-color: #EDAE49;
+}
+
+ul{
+    display: table;
+    margin: 0 auto;
+}
+
+#titulo{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  }
+
+#tarjeta{
+    margin: 0 auto;
+    float: none;
+    margin-top: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+    background-color: #1E6167;
+}
+
+#izq{
+    background-color: #9dc7c8;
+    border-radius: 10px;
+    /**color: #E4FFE1;**/
+    padding: 10px;
+}
+
+#der{
+    background-color: #F18F01;
+    padding: 5px;
+    border-radius: 10px;
+    color:#0F3134;
+}
+
+#subt1{
+    text-align: center;
+}
+
+#img_dragonzitos{
+    width: 100%;
+    padding-bottom: 15px;
+}
