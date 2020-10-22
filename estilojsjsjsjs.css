@@ -4,6 +4,12 @@
     /*color: white;*/
 }
 
+#img-chida{
+    width: 320px;
+    height: auto;
+    padding: 20px;
+}
+
 body{
     background-color: #EDAE49;
 }
@@ -30,6 +36,34 @@ ul{
     background-color: #1E6167;
 }
 
+#arr-izq{
+    padding-left: 15px;
+}
+
+p{
+    font-size: large;    
+}
+
+#arr-der{
+    padding-top: 15px;
+    vertical-align: middle!important;
+}
+
+#medio-izq{
+    background-color: #6F9250;
+}
+
+#medio-der{
+    background-color: #2C5343;
+}
+
+#abajo-izq{
+    background-color: #9FB3CB;
+}
+
+#abajo-der{
+    background-color: #254A3B;
+}
 #izq{
     background-color: #9dc7c8;
     border-radius: 10px;
